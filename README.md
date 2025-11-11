@@ -1,3 +1,15 @@
+
+ Change Log
+-	Filters for type of courses
+-	Rounded edges to buttons
+-	Border styling on the dishes page
+Log Description
+-	I made the filter to be on top of the app and divided them into 4 to make It easier to navigate through the app
+-	Made rounded edges for better styling
+-	I made alignment across screens
+-	I made the app function better and
+ 
+ 
  Step 1: Install the tools
 
 You only need Node.js and Expo.
